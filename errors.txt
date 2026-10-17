@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1032: show statement expects a non-empty block.
+    show foto:
+              ^
+
+Ren'Py Version: Ren'Py 8.5.0.25111603
+Sat Jun 13 23:46:40 2026
